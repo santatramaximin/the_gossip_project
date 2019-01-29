@@ -1,1 +1,1 @@
-# the_gossip_project
+# the_gossip_project de lundi sur sinatra
